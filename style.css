@@ -1,12 +1,31 @@
 h1{
-	background-color: DarkSlateGrey;
+	background-color: #7d8085;
 	color: MistyRose;
 }
 
 img{
 	width: 35%;
+	padding: 25px;
 }
 
 body{
 	background-color: MistyRose;
+	font-size: 1.5em;
+	font-family: "Lucida Console", "Courier New", monospace;
+
+}
+p{
+	padding: 25px;
+}
+
+#red{
+	border: 16px outset lightseagreen;
+}
+
+h2{
+	letter-spacing: 5px;
+}
+hr{
+	height: 16px;
+	background-color: #0f5753;
 }
